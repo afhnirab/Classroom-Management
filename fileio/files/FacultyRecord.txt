@@ -1,0 +1,12 @@
+12-@stu;222;Name: xyz;Age: 30
+wewqewq;wewqe;Name: wewqewq;Age: 23
+wqewqe;wqeqwe;Name: wqeqweqw;Age: 2
+ewrewr;ererew;Name: werwer;Age: 33
+rrytytytyu;111;Name: qaz;Age: 23
+www;222;Name: wwwwwwwwww;Age: 45
+mmm;333;Name: mos;Age: 665
+qqq;222;Name: qqqqqqqqq;Age: 23
+sss;222;Name: www;Age: 23
+sss;222;Name: www;Age: 23
+sdsdsfsd;dsssssdsd;Name: dweew;Age: 22
+wwwwwwwwwwww;222;Name: wwwwwwwwwwww;Age: 33
