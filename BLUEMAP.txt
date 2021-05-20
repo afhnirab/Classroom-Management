@@ -1,0 +1,45 @@
+
+
+////// VIEW PROFILE////
+
+
+/////{ VIEW CLASSES
+      1.SELECT A CLASS
+	  2.EXIT
+	    
+		1.SEE students
+	
+		4.POST SOMETHING
+		5.ADD STUDENTS
+		6.EXIT CLASS
+	}
+
+////  MESSAGE SOMEONE
+      ---VIEW RECIEVED MESSAGE
+		
+	  ---SENT MESSAGE
+
+	 
+////VIEW NOTICES///////
+///LOG OUT/////////////
+
+
+
+////// VIEW PROFILE
+
+
+/////{ VIEW CLASSES
+      1.SELECT A CLASS
+	  -------------------	 
+		2.SEE POST
+		3.ADD STUDENTS
+		4.EXIT CLASS
+	}
+
+////MESSAGE
+
+    ---VIEW RECIEVED MESSAGE		
+	 ---SENT MESSAGE
+	 
+////VIEW NOTICES
+///LOG OUT
